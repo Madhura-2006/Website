@@ -1,0 +1,138 @@
+body {
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: none;
+  padding-top: 2%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display:block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:none;
+  font-size: 20px;
+}
+
+li a:hover {
+  background-color: black;
+
+}
+li a {
+  margin: 0 25px;
+}
+h1 {
+  padding-top: 5%;
+  font-size: 60px;
+  font-family: cursive;
+  color: white;
+  padding-left: 25px;
+  padding-top:10px;
+}
+
+h2 {
+  align-content: center;
+  padding-top: 0%;
+  font-size: 40px;
+  font-style:cursive;
+  color: white;
+}
+
+p {
+  font-size: 30px;
+  font-family: sans-serif ;
+  color: white;
+  padding-left: 25px;
+  padding-top: 3px;
+}
+
+
+
+.education {
+  background-image: url('https://i.pinimg.com/736x/41/3c/45/413c457ca865be6468ad3526ac4e1e98.jpg');
+}
+
+.education1 div {
+    width:  500px; 
+    height: 400px;
+    margin: 20px ;
+    padding: 20px; 
+    background-color:white; 
+    border-radius: 10px; 
+    font-size: 18px; 
+    display: inline-block;
+}
+
+.education1 h2{
+  color: black;
+  text-align: center;
+  text-size: 20 px;
+
+} 
+
+.education1 p {
+  color: black;
+  padding-left: 5px;
+  
+}
+
+
+.profile {
+        background-image: url('https://cdn.photoroom.com/v2/image-cache?path=gs://background-7ef44.appspot.com/backgrounds_v3/black/42_-_black.jpg');
+}
+
+ 
+.profile-container img 
+{
+      width: 250px;
+      height: 250px;
+      border-radius: 50%; 
+      object-fit: cover; 
+      padding: 10px;
+      position: absolute; 
+      top: 100px;
+      right:100px;
+      
+    
+}
+
+
+.hobbies {
+     background-image: url('https://images.pexels.com/photos/1646981/pexels-photo-1646981.jpeg?cs=srgb&dl=pexels-deeanacreates-1646981.jpg&fm=jpg');
+}
+
+.hobbies1 p{
+  font-family: cursive;
+  padding: 2px;
+  color: black;
+  text-align: left;
+  padding-left: 400px;
+  padding-top: 30px;
+
+} 
+
+.contact {
+        background-image: url('https://i.pinimg.com/736x/95/ce/79/95ce799a9ade5b02b16f733967b2e11a.jpg');
+}
+div {
+  width:30%;  
+  display:inline-block;
+  size: 50px;
+}
+
+
+.contact1 {
+  padding-top: 20px;
+  padding-left: 30px;
+}
